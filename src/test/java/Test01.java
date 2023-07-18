@@ -36,6 +36,11 @@ public class Test01 {
         googlePage.search("toaster buy\n");
 
     }
+    @Test
+    public void testSearchone(){
+        googlePage.search("one\n");
+    }
+    
 }
 
 class GooglePage {
