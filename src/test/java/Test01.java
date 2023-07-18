@@ -37,7 +37,7 @@ public class Test01 {
 
     }
     @Test
-    public void testSearchone(){
+    public void testSearchOne(){
         googlePage.search("one\n");
     }
     
