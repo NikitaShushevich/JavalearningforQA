@@ -8,4 +8,3 @@ public class BusSpace {
         System.out.println(enough(20, 5, 5));
     }
 }
-x
