@@ -1,7 +1,6 @@
-import org.testng.annotations.Test;
 
 public class FizzBuzz {
-    @Test
+
 
     public void fB(){
 
