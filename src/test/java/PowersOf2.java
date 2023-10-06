@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 public class PowersOf2 {
     public static long[] powersOfTwo(int n) {
